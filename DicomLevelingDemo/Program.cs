@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace DicomLeveling
+namespace DicomLevelingDemo
 {
     static class Program
     {

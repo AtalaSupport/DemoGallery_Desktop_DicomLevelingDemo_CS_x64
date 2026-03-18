@@ -1,4 +1,4 @@
-﻿namespace DicomLeveling
+﻿namespace DicomLevelingDemo
 {
     partial class Form1
     {

@@ -8,8 +8,8 @@
     <ProjectGuid>{2A0A4652-F8C6-403C-B229-90337339AAF8}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DicomLeveling</RootNamespace>
-    <AssemblyName>DicomLeveling</AssemblyName>
+    <RootNamespace>DicomLevelingDemo</RootNamespace>
+    <AssemblyName>DicomLevelingDemo</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ApplicationIcon>App.ico</ApplicationIcon>
@@ -62,27 +62,27 @@
   <ItemGroup>
     <Reference Include="Atalasoft.dotImage">
       <Name>Atalasoft.dotImage</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Dicom">
       <Name>Atalasoft.dotImage.Dicom</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.Dicom.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.Dicom.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Lib">
       <Name>Atalasoft.dotImage.Lib</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.Lib.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.Lib.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.WinControls">
       <Name>Atalasoft.dotImage.WinControls</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.WinControls.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.WinControls.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.PdfDoc">
       <Name>Atalasoft.PdfDoc</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.PdfDoc.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.PdfDoc.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.Shared">
       <Name>Atalasoft.Shared</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.Shared.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.Shared.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">

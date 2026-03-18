@@ -7,7 +7,7 @@ using Atalasoft.Imaging.Codec.Dicom;
 using Atalasoft.Imaging.WinControls;
 using System.IO;
 
-namespace DicomLeveling
+namespace DicomLevelingDemo
 {
     public partial class Form1 : Form
     {
